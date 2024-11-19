@@ -2,6 +2,11 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2411.10798)  [![Project](https://img.shields.io/badge/Project-Page-blue.svg)](https://arxiv.org/pdf/2411.10798) 
 
+
+> **Unveiling Hidden Details: A RAW Data-Enhanced Paradigm for Real-World Super-Resolution**<br>
+Long Peng<sup>1,2</sup> , Wenbo Li<sup>2,*</sup> , Jiaming Guo<sup>2</sup> , Xin Di<sup>1,2</sup> , Haoze Sun<sup>3</sup> , Yong Li<sup>2</sup> , Renjing Pei<sup>2</sup> , Yang Wang<sup>1*</sup> , Yang Cao<sup>1</sup> , Zheng-Jun Zha<sup>1</sup>
+> <sup>1</sup>USTC | <sup>2</sup>Huawei Noah's Ark Lab | <sup>3</sup>THU |
+
 ## :bookmark: News!!!
 - [x] 2024-11-9 **Arxiv Version has been released.**
 
