@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]([https://arxiv.org/abs/2408.11758](https://arxiv.org/abs/2405.07023))  [![Project](https://img.shields.io/badge/Project-Page-blue.svg)]() 
 
 ## :bookmark: News!!!
-- [x] 2024-*** **Arxiv Version has been released.**
+- [x] 2024-11-9 **Arxiv Version has been released.**
 - [ ] The code will be released soon.
 
 
